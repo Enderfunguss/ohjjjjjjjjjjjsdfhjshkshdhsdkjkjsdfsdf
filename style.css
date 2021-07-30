@@ -1,0 +1,24 @@
+body {
+  background-size: cover;
+  background-position: center;
+}
+
+canvas {
+  border: solid #243265;
+  box-shadow: grey;
+}
+
+.container {
+  text-align: center;
+}
+
+.heading {
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+#harold,
+#amountOfObjects {
+  font-size: 18px;
+}
